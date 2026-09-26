@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Public\Documents\Altium\CHIP_BOY_Mk_3\CHIPBOY_Mk_III.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=chipboy_mk_iii.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=chipboy_mk_iii-rectholes.txt|DrillLayers=gtl,gp1,gp2,gbl

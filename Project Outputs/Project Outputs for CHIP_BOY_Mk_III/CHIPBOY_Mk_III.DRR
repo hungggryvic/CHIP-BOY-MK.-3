@@ -1,0 +1,27 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: CHIPBOY_Mk_III.PcbDoc   9/23/2026  9:34:22 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer - Signals/ Components to Bottom Layer - Signals/Components
+ASCII RoundHoles File : CHIPBOY_Mk_III.TXT
+ASCII RectHoles File : CHIPBOY_Mk_III-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      10mil (0.254mm)                                           Round             44        PTH        11.58inch (294.24mm)
+T2      20mil (0.508mm)                                           Round             7         PTH        2.89inch (73.51mm)
+T3      32mil (0.8mm)                                             Round             18        PTH        4.42inch (112.29mm)
+T4      33mil (0.85mm)                                            Round             30        PTH        4.63inch (117.55mm)
+T5      39mil (0.991mm)                                           Round             18        PTH        2.30inch (58.42mm)
+T6      39mil (1mm)                                               Round             34        PTH        10.99inch (279.07mm)
+T7      40mil (1.016mm)                                           Round             8         PTH        2.17inch (55.22mm)
+T8      40mil (1.02mm)                                            Round             5         PTH        0.40inch (10.16mm)
+T9      42mil (1.07mm)                                            Round             18        PTH        7.34inch (186.47mm)
+T10     47mil (1.2mm)                                             Round             5         PTH        0.96inch (24.50mm)
+T11     79mil (2mm)                                               Rectangle         2         PTH        0.91inch (23.00mm)
+T12     32mil (0.8mm)                                             Round             1         NPTH       0.00inch (0.00mm)
+T13     43mil (1.1mm)                                             Round             1         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              191
+
+Total Processing Time (hh:mm:ss) : 00:00:00
